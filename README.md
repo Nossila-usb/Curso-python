@@ -2,7 +2,7 @@
 
 Repositorio com o intuito de apredizagem academica do **senai** para a linguagem git, pithon outras ... Com o intuito de apercoamento de programacao.
 
-|#|Assonto|link|
+|#|Assunto|link|
 |-|-|-|
 |1|apresentacao do curso|[relatorio](./aulas/Aula01.md)|
 |2|introducao a tecnologia informacao||
